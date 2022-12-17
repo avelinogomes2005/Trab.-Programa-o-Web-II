@@ -6,6 +6,6 @@ GRUPO: Mikael Diogo Ferreira, Raimundo Avelino Gomes Lima, Paulo Henrique Aurél
 
 <h3 align="center"><i>Conversor de Moedas: Feito em React </h3>
 
-<h3 align="center"><i><img src="Captura de tela_2022-12-14_23-45-28.png"></h3>
+<h4 align="center"><i><img src="Captura de tela_2022-12-14_23-45-28.png"></h4>
 
-<p>Obs: O conversor está em inglês e português por esquecimento na hora de trocar</p> 
+<h5 align="center"><i><p>Obs: O conversor está em inglês e português por esquecimento na hora de trocar</p> </h5>
